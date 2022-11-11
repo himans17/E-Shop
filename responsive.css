@@ -1,0 +1,16 @@
+@media (max-width: 768px){
+    .offer .offer-box .offer-info .heading-bigger{
+        font-size: 25px;
+    }
+    .special .countdown-container .countdown-counter li{
+        width: 20%;
+    }
+}
+
+@media (max-width: 575.98px){
+    .home .home-banner .home-banner-text{
+        left: 10%;
+        position: absolute;
+        top: 35%;
+    }
+}
